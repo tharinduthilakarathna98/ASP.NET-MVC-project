@@ -9,17 +9,17 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PartyInvites
 build_property.RootNamespace = PartyInvites
-build_property.ProjectDir = F:\mvc\ASP.NET-MVC-project\FirstMVCAPP\PartyInvites\PartyInvites\
+build_property.ProjectDir = F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\mvc\ASP.NET-MVC-project\FirstMVCAPP\PartyInvites\PartyInvites
+build_property.MSBuildProjectDirectory = F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/mvc/ASP.NET-MVC-project/FirstMVCAPP/PartyInvites/PartyInvites/Views/Home/Index.cshtml]
+[F:/mvc/ASP.NET-MVC-project/PartyInvites/PartyInvites/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/mvc/ASP.NET-MVC-project/FirstMVCAPP/PartyInvites/PartyInvites/Views/Home/RsvpForm.cshtml]
+[F:/mvc/ASP.NET-MVC-project/PartyInvites/PartyInvites/Views/Home/RsvpForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSc3ZwRm9ybS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

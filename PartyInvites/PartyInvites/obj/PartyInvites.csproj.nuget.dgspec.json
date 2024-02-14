@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\mvc\\ASP.NET-MVC-project\\FirstMVCAPP\\PartyInvites\\PartyInvites\\PartyInvites.csproj": {}
+    "F:\\mvc\\ASP.NET-MVC-project\\PartyInvites\\PartyInvites\\PartyInvites.csproj": {}
   },
   "projects": {
-    "F:\\mvc\\ASP.NET-MVC-project\\FirstMVCAPP\\PartyInvites\\PartyInvites\\PartyInvites.csproj": {
+    "F:\\mvc\\ASP.NET-MVC-project\\PartyInvites\\PartyInvites\\PartyInvites.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\mvc\\ASP.NET-MVC-project\\FirstMVCAPP\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
+        "projectUniqueName": "F:\\mvc\\ASP.NET-MVC-project\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
         "projectName": "PartyInvites",
-        "projectPath": "F:\\mvc\\ASP.NET-MVC-project\\FirstMVCAPP\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
+        "projectPath": "F:\\mvc\\ASP.NET-MVC-project\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
         "packagesPath": "C:\\Users\\Tharindu Dimantha\\.nuget\\packages\\",
-        "outputPath": "F:\\mvc\\ASP.NET-MVC-project\\FirstMVCAPP\\PartyInvites\\PartyInvites\\obj\\",
+        "outputPath": "F:\\mvc\\ASP.NET-MVC-project\\PartyInvites\\PartyInvites\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tharindu Dimantha\\AppData\\Roaming\\NuGet\\NuGet.Config",
