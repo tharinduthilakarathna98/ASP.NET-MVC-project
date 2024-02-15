@@ -26,3 +26,31 @@ F:\MVC .NET\super_market_management_system\FirstMVCAPP\PartyInvites\PartyInvites
 F:\MVC .NET\super_market_management_system\FirstMVCAPP\PartyInvites\PartyInvites\obj\Debug\net7.0\ref\PartyInvites.dll
 F:\MVC .NET\super_market_management_system\FirstMVCAPP\PartyInvites\PartyInvites\obj\Debug\net7.0\PartyInvites.RazorAssemblyInfo.cache
 F:\MVC .NET\super_market_management_system\FirstMVCAPP\PartyInvites\PartyInvites\obj\Debug\net7.0\PartyInvites.RazorAssemblyInfo.cs
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\bin\Debug\net7.0\appsettings.Development.json
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\bin\Debug\net7.0\appsettings.json
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\bin\Debug\net7.0\PartyInvites.staticwebassets.runtime.json
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\bin\Debug\net7.0\PartyInvites.exe
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\bin\Debug\net7.0\PartyInvites.deps.json
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\bin\Debug\net7.0\PartyInvites.runtimeconfig.json
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\bin\Debug\net7.0\PartyInvites.dll
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\bin\Debug\net7.0\PartyInvites.pdb
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\obj\Debug\net7.0\PartyInvites.GeneratedMSBuildEditorConfig.editorconfig
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\obj\Debug\net7.0\PartyInvites.AssemblyInfoInputs.cache
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\obj\Debug\net7.0\PartyInvites.AssemblyInfo.cs
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\obj\Debug\net7.0\PartyInvites.csproj.CoreCompileInputs.cache
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\obj\Debug\net7.0\PartyInvites.MvcApplicationPartsAssemblyInfo.cache
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\obj\Debug\net7.0\PartyInvites.RazorAssemblyInfo.cache
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\obj\Debug\net7.0\PartyInvites.RazorAssemblyInfo.cs
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\obj\Debug\net7.0\staticwebassets\msbuild.PartyInvites.Microsoft.AspNetCore.StaticWebAssets.props
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\obj\Debug\net7.0\staticwebassets\msbuild.build.PartyInvites.props
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PartyInvites.props
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PartyInvites.props
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\obj\Debug\net7.0\staticwebassets.pack.json
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\obj\Debug\net7.0\staticwebassets.build.json
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\obj\Debug\net7.0\staticwebassets.development.json
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\obj\Debug\net7.0\scopedcss\bundle\PartyInvites.styles.css
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\obj\Debug\net7.0\PartyInvites.dll
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\obj\Debug\net7.0\refint\PartyInvites.dll
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\obj\Debug\net7.0\PartyInvites.pdb
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\obj\Debug\net7.0\PartyInvites.genruntimeconfig.cache
+F:\mvc\ASP.NET-MVC-project\PartyInvites\PartyInvites\obj\Debug\net7.0\ref\PartyInvites.dll
